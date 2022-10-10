@@ -1,0 +1,39 @@
+<!DOCTYPE>  
+<html>  
+<head> 
+<title>First Page</title> 
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h4 {text-align: center;}
+p {text-align: center;}
+img { display:block; margin-left: auto; margin-right:auto; } 
+</style>
+</head>  
+<body>  
+<h1><span style="color: red">S</span>IKSHA '<span style="color: red">O</span>' <span style="color: red">A</span>NUSANDHAN</h1>  
+<h2>DEEMED TO BE UNIVERSITY</h2>  
+<p1 style='text-align: left; color: red'>Admission Batch: 2021 <span style="float:right; color: blue"> Session: 2022(ODD)</span></p1>
+<hr>
+<h3> Subject </h3>
+<h2> Internet and Web Technology (IWT) </h2>
+<br>
+<br>
+<h3> Submitted by  </h3>
+<p style="padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px"> Name :<u>___Priyabrata Pradhan</u>__________________________________</p>
+<p style="padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px"> Registration No.:<u>_2161020091</u>____________________________________</p>
+<p style="padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px"> Branch:__<u>MCA</u>______________________________________</p>
+<p style="padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px"> Semester:__<u>3rd</u>___________________  Section: __<u>B</u>_________________</p>
+<br>
+<br>
+<h3> Subject Teacher </h3>
+<br>
+<h3> Dr. Debabrata Singh, Associate Profssor </h3>
+<p> Dept. of CA, ITER, S'O'A Demmed to be University, Bhubaneswar </p>
+<img src="\home\student\Downloads\soa.png"   width="150" height="150">
+<h2> Department of  Computer Application(CA) </h2>
+<h2> Falculty of Engineering & Technology (ITER) </h2>
+<h4> Jagamohan nagar, Jagamara, Bhubaneswar, Odisha,- 751030
+</body>  
+</html>
